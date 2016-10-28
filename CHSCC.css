@@ -1,10 +1,16 @@
-.demo1{
-    
-    color: aqua;
-    
+   
+}
+a:link{
+ color:#4f4b4b    
     
 }
+a:visited{
+color:#c7c8ca
 
-.demo2{
-    font-size: 24;
+}
+
+a:hover{
+ color:#ad1e05  
+    
+    
 }
