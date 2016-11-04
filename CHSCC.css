@@ -3,20 +3,20 @@
 body{
     background-color:#eaebed
 }
-
-header   
-}
+  
 a:link{
- color:#4c4d4f   
-    
+ color:#4c4d4f     
 }
+
 a:visited{
 color:#4c4d4f
-
 }
 
 a:hover{
- color:#ad1e05  
-    
-    
+ color:#ad1e05       
 }
+
+.titles{
+      color:#a51e36;
+}
+ 
