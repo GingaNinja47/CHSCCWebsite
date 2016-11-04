@@ -1,0 +1,93 @@
+<!doctype html>
+<html>
+<head>
+    <title>Curriclulum</title>
+    <script>
+    function dosomejavascript(){
+    $('Button 1').toggle('slow);
+    }</script>
+    </head>
+<body>
+    
+    <header> 
+    <a href ="CHSCC.html">Home</a>
+    <a href="Calender.html">Calender</a>
+    <a href="ContactInfo.html">Contact/Info</a>
+    <a href= "Curriculum.html">Curriculum</a>
+    </header>
+    <h1 style="color:#008080">2016-2017 Year Overview</h1>
+    <div id=content>
+    
+    <div id= block1>
+   <button id="Block 1 September- December" onclick= "dosomejavascript"()><H3 style= "color: #5F9EA0">Block 1 September-December:</H3></button>
+        <span id= "Button 1" style= "display:none"><ul>
+       <li>Machine/Assembly (just to teach why higher level languages exist and are required, also to show how computers translate what we say to them)</li> 
+    <li>HTML/CSS/Javascript+(Jquery) + Scratch
+These languages are simple and good for an introduction into code
+</li>
+    <li>At the end of HTML/CSS instruction there will be a team project:
+</li>
+    <li>Club split into teams of 3-6</li>
+        <li>Each team creates an interactive website (that does some type of game (checkers, tic-tac-toe, hangman, yahtzee, blackjack etc.) or service (netflix rental example, wedding seat picker,  grade calculator) - these might be too advanced/not enough time to teach core concepts but would serve as a really good way to see the differences in languages
+simple interactive is 4 step input, result, response and report
+needs to use all 3 languages HTML, CSS and JS
+</li>
+        
+        </ul></span>
+
+<b>Coding Theories and Methodologies Covered</b> <br>
+·       History of Computing<br>
+·       Machine and Assembly Language<br>
+·       Bottom Up Design<br>
+·       Procedural Programming
+·       Functions<br>
+·       Problem Solving<br>
+·       High Level Static Languages - No Interpreter<br>
+        </div>
+        
+    <div id= block2> 
+        <h3 style= "color: #5F9EA0">Block 2: January-March</h3>
+            <ul>
+            <li>Python / Databases + Intro to Java</li>
+            <li>Python is great, versatile language that can be used for fields ranging from serious data processing to game creation</li>
+            <li>This is a great first “real” language to learn and helps the club instruction increase in difficulty as the year goes on</li>
+            <li>A Team project will also follow Python instruction</li>
+            <li>Either creating a data processing service or incorporating modules such as Pygame and to create a game (depending on complexity double from first html/css game, show differences between working with code, and creating code)</li>
+            <li>Reshuffle teams based on skill so that there isn't one overloaded team and not working with same group of people</li>
+            <li>Whatever time is left over in the 2rd block after the Python instruction and team project are complete, will be used as an intro to Java</li>
+            <li>Java is the heaviest of the languages we intend to have instructed so even if only a couple of weeks are left over in March, they will be dedicated to Java</li>
+            </ul>
+     <b>Coding Theories and Methodologies Covered</b><br>
+·       High Level Dynamic Languages<br>
+·       Objected Oriented Programming vs Procedural<br>
+·       Intro to Model View Controller<br>
+·       Parent/Child Relationships<br>
+· Parent/Child Overrides<br>
+·       Objected Oriented Class Conversions<br>
+·       Classes and Simple Objects<br>
+            </div>
+        
+    <div id= block3>
+        
+        
+        <h3 style= "color: #5F9EA0">Block 3: April-June</h3>
+        
+        <ul>
+        <li>Java + Swift</li>
+        <li>The majority of this block will be focused on Java</li>
+        <li>There will be another Team Project that hasn’t be finalized as of now</li>
+        <li>Again the teams would be rearranged, reshuffle teams based on skill so that there isn't one overloaded team and not working with same group of people</li>
+        <li>Since June is a stressful month with finals and regents, we think it would be best to end the year on a lighter, more fun note</li>
+        <li>Swift is a language used by Apple to develop many apps</li>
+        <li>Swift would be a fun, easier language to end the school year with that could possibly result in great student made apps</li>
+        </ul>
+        <b>Coding Theories and Methodologies Covered</b><br>
+·       Continuation of Model View Controller<br>
+·       Technology Evolvement<br>
+·       Development of Second Year<br>
+·       Platform/Hardware Differences and Language Independence<br>
+·       Stand Alone Apps vs. Marketplace Apps and Standards<br>
+        </div>
+    </div>
+    </body>
+</html>
